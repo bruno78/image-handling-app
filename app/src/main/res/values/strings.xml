@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageHandlerSample</string>
+    <string name="processing_image">Processing Image</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="nothing_found">Nothing found!</string>
+    <string name="dialog_select_prompt">Choose</string>
+    <string name="dialog_select_gallery">Gallery</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="permission_denied">Permission denied!</string>
+    <string name="photo_not_taken">Photo not taken!</string>
+</resources>
